@@ -12,4 +12,5 @@
 
 ## <a href = "6.320 One Hall Effect.pdf"> Controls: Magnetic Levitation with a Single Hall Effect Sensor </a>
 
-  
+## <a href = "BuckConverterDesign"> Power Electronics: Buck Converter Design</a>
+
