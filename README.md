@@ -10,5 +10,6 @@
 
 ## <a href = "MOSFET Design Project.pdf"> MOSFET Design Project </a>
 
+## <a href = "6.320 One Hall Effect.pdf"> Controls: Magnetic Levitation with a Single Hall Effect Sensor </a>
 
   
