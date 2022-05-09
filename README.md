@@ -1,5 +1,4 @@
-# franklinzyx.github.io
-My name is Franklin Zhang and here is my resume and some of my projects
+# My name is Franklin Zhang and this is my website
 
 ## <a href = "Zhang_Franklin_resume_3_4_2022.pdf">
   Resume </a>
