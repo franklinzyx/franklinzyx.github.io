@@ -8,4 +8,7 @@
 
 ## <a href = "6.832_final_report.pdf "> Model Predictive Control for Wave Energy Conversion </a>
 
+## <a href = "MOSFET Design Project.pdf"> MOSFET Design Project </a>
+
+
   
