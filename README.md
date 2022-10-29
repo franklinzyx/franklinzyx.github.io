@@ -12,7 +12,7 @@
 
 # 2020
 ### <a href = "6_341_Final_Project.pdf"> FM Demodulation Project </a> 
-### <a href = "BuckConverterDesign"> Power Electronics: Buck Converter Design</a>
+### <a href = "BuckConverterDesign.pdf"> Power Electronics: Buck Converter Design</a>
 
 
 # 2019
@@ -21,7 +21,7 @@
   <li> <a href = "RacecarRL.pdf"> Reinforcement Learning</a> </li>
   <li> <a href = "RacecarPathPlanning.pdf"> Path Planning </a> </li>
   <li> <a href = "RacecarLocalization.pdf"> Localization </a> </li>
-  <li> <a href = "RacecarWallFollow"> Wall Following </a> </li>
+  <li> <a href = "RacecarWallFollow.pdf"> Wall Following </a> </li>
 </ul>
 
 
